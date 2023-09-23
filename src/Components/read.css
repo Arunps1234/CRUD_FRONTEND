@@ -1,0 +1,33 @@
+.delpopup{
+    width:50vw;
+    height:50vh;
+    background-color: whitesmoke;
+    position :absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    z-index: 999;
+}
+
+.msgtext{
+    position: relative;
+    top:80px
+}
+
+.closeicon{
+    position: absolute;
+    top:20px;
+    right: 20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.btns{
+    position: absolute;
+    bottom: 20px;
+    margin-left: 100px;
+}
+.nodatatext{
+
+}
